@@ -43,8 +43,8 @@ I use GitHub to document my learning, build projects, improve code quality, and 
 
 ### 🤝 Connect With Me
 
-- GitHub: [Your GitHub Profile](https://github.com/aditya071122)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aditya-gupta-117a1b264/)
+- GitHub:(https://github.com/aditya071122)
+- LinkedIn:(https://www.linkedin.com/in/aditya-gupta-117a1b264/)
 - Email: adityagupta26099@gmail.com
 
 ---
